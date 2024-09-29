@@ -6,8 +6,8 @@
 
 ## Semana 2
 
-### Salarios de empleados [(link)]()
+### Salarios de empleados [(link)](https://github.com/DanielCarrenoMar/Proyectos-Java/tree/master/src/app/Salary_1)
 ![Captura](https://github.com/user-attachments/assets/ef7d942b-f5a5-48b7-97a7-7a27deded82f)
 
-## Taller Mecanico [(link)]()
+## Taller Mecanico [(link)](https://github.com/DanielCarrenoMar/Proyectos-Java/tree/master/src/app/Mechanical_2)
 ![Captura](https://github.com/user-attachments/assets/cff87cdf-bb08-4d34-b56b-8bc9d573fd49)
