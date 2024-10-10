@@ -1,6 +1,5 @@
 package app.Mechanical_2.pages.components;
 
-import app.Mechanical_2.pages.MenuScreen;
 import app.Mechanical_2.reparations.Reparation;
 
 import javax.swing.*;
