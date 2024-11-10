@@ -4,6 +4,16 @@
 
 # ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) Ejercicios hechos en Java (Programación orientada a objetos)
 
+## Semana 5
+
+### Pila con genericos [(link)](https://github.com/DanielCarrenoMar/Proyectos-Java/tree/master/src/app/pila_6)
+
+## Semana 4
+
+### Vectores con excepciones [(link)](https://github.com/DanielCarrenoMar/Proyectos-Java/tree/master/src/app/vector_5)
+
+### Piscina con excepciones [(link)](https://github.com/DanielCarrenoMar/Proyectos-Java/tree/master/src/app/piscina_4)
+
 ## Semana 3
 
 ### Guerra de Troya [(link)](https://github.com/DanielCarrenoMar/Proyectos-Java/tree/master/src/app/TroyanWar_3)
